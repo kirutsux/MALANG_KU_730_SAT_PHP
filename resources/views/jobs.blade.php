@@ -1,6 +1,10 @@
 <x-layout>
     <x-slot:heading>
+<<<<<<< HEAD
         Job  Listings
+=======
+        Job Listings
+>>>>>>> 53396258f9c6b004e73bc9a74e8fa62abbc34947
     </x-slot:heading>
 
     <ul>
